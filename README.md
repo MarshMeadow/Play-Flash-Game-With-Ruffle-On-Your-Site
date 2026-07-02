@@ -143,5 +143,3 @@ This method is already used on real sites for Flash game hosting:
 ## ❓ Support
 
 If you need help embedding your Flash game or fixing issues, feel free to ask.
-
-```
