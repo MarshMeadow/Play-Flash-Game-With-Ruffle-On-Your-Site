@@ -1,5 +1,3 @@
-Here’s your **complete, cleaned, ready-to-paste README.md** with everything included and polished:
-
 ```md
 # 🎮 Play Flash Games With Ruffle On Your Site
 
@@ -146,14 +144,4 @@ This method is already used on real sites for Flash game hosting:
 
 If you need help embedding your Flash game or fixing issues, feel free to ask.
 
-```
-
----
-
-If you want next level upgrade, I can also turn this into:
-- :contentReference[oaicite:0]{index=0}
-- or :contentReference[oaicite:1]{index=1}
-- or :contentReference[oaicite:2]{index=2}
-
-Just tell me 👍
 ```
